@@ -21,7 +21,7 @@ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Most recent contests' results: <br>
-- Italian Collegiate Programming Contest: &nbsp; [46<sup>th</sup> / ~250]([https://judge.itacpc.it/public](https://itacpc.it/competition/results/2023)), <br>
+- Italian Collegiate Programming Contest: &nbsp; [46<sup>th</sup> / ~250](https://itacpc.it/competition/results/2023), <br>
 - Facebook Hacker Cup:   &nbsp; [3226<sup>th</sup> / 20324](https://www.facebook.com/codingcompetitions/hacker-cup/2023/round-2/scoreboard?source=facebook), <br>
 
 Competitive Programming profiles' links: <br>
