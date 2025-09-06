@@ -4,7 +4,7 @@
 
 🔬 I collaborate with [BiConnectLab](https://biconnect.psicologia.unimib.it/) on Computer Vision and Machine Learning topics.
 
-📖 My other interests include Reinforcement Learning, Computer Networking, Algorithms
+📖 My other interests include Reinforcement Learning, Computer Networking, Algorithms.
 
 Languages: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
