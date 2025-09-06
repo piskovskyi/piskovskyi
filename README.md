@@ -1,11 +1,10 @@
 ## Hi, I am Valentyn
 
-💻 I am a Computer Science student. <br>
-🔬 I take part in some Programming Competitions. <br>
-📖 My main interests are 
-- AI: Machine Learning, Neural Networks, Reinforcement Learning
-- Computer Networking
-- Algorithms <br>
+💻 I am currently pursuing a Master's degree in Computer Science.
+
+🔬 I collaborate with [BiConnectLab](https://biconnect.psicologia.unimib.it/) on Computer Vision and Machine Learning topics.
+
+📖 My other interests include Reinforcement Learning, Computer Networking, Algorithms
 
 Languages: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,6 +18,8 @@ Databases:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+I occasionally take part in some Programming Competitions. <br>
 
 Most recent contests' results: <br>
 - Italian Collegiate Programming Contest: &nbsp; [46<sup>th</sup> / ~250](https://itacpc.it/competition/results/2023), <br>
