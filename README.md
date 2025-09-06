@@ -2,7 +2,7 @@
 
 💻 I am currently pursuing a Master's degree in Computer Science.
 
-🔬 I collaborate with [BiConnectLab](https://biconnect.psicologia.unimib.it/) on Computer Vision and Machine Learning topics.
+🔬 I collaborate with [BiConnect Lab](https://biconnect.psicologia.unimib.it/) on Computer Vision and Machine Learning topics.
 
 📖 My other interests include Reinforcement Learning, Computer Networking, Algorithms.
 
