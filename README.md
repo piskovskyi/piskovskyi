@@ -27,9 +27,8 @@ Most recent contests' results: <br>
 
 Competitive Programming profiles' links: <br>
 
-1) [![Badge](https://cp-logo.vercel.app/codechef/piskovskyi?logo=true)](https://www.codechef.com/users/piskovskyi)
-2) [![Codeforces](https://badges.joonhyung.xyz/codeforces/piskovskyi.svg)](https://codeforces.com/profile/piskovskyi)
-3) [![Badge](https://cp-logo.vercel.app/atcoder/piskovskyi)](https://atcoder.jp/users/piskovskyi)
+1) [![Codeforces](https://badges.joonhyung.xyz/codeforces/piskovskyi.svg)](https://codeforces.com/profile/piskovskyi)
+2) [![Badge](https://cp-logo.vercel.app/atcoder/piskovskyi)](https://atcoder.jp/users/piskovskyi)
 
 
 <!--
